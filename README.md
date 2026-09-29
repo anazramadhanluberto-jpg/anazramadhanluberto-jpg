@@ -1,7 +1,7 @@
 <!-- Header Banner / GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJkYWtrc2FmYzJ4YmVqOHcxa2pxZGF4eHk3OHRyb28xZ3J0cmY0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2LMfNueLVNC8/giphy.gif" width="400" alt="Coding GIF">
-  <h1>Halo 👋, Saya [Nama Kamu]</h1>
+  <h1>Halo 👋, Saya Anaz Ramadhan L.</h1>
   <h3>Web Developer / Tech Enthusiast dari Indonesia 🇮🇩</h3>
 </div>
 
