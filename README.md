@@ -1,6 +1,6 @@
 <!-- Header Banner / GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanlienN2b20zaDNoZjV1cG1ldDZmcWc1Z25kaTVuY3l2aTJxdHp5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DZymCQph1dk5ZC5axo/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjI2eDg1azZnbHE2c3pxaGc2dDVicnhwYnJjbXhkZzhjbWR4OGk1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3KbliBOdHlUE8/giphy.gif" width="400" alt="Coding GIF">
   <h1>Halo 👋, Saya Anaz Ramadhan L.</h1>
   <h3>Web Developer / Tech Enthusiast dari Indonesia 🇮🇩</h3>
 </div>
